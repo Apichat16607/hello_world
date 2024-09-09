@@ -4,4 +4,5 @@ This is my first reository!
 
 ## Authors
 - R. Promkam
-- w. Karnsasom 
+- w. Karnsasom
+- Na.sodium
