@@ -1,7 +1,15 @@
-h {
-	color: red;
-	justify-content: center;
+body{
+	background-color: skyblue;
 }
-p {
-	color: blue;
+
+div{
+	 width: 100px;
+    padding: 20px;
+    border: 10px solid black;
+    margin: 30px;
+}
+
+img{
+	border-radius:5% ;
+	margin: 20px;
 }
